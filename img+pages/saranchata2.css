@@ -1,0 +1,46 @@
+body {
+    background-color: #1c1c1c;
+    margin: 0;
+    background-image: url("Вова 39.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.help {
+    display: flex;
+    /*width: 400px;*/
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.hhh {
+    margin-left: 30px;
+}
+
+.hhh b{
+    font-style: italic;
+    font-size: 20px;
+}
+
+.helpmeplease {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.helpmeplease b {
+    display-inline: block;
+    justify-content: center;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.helpmeplease h1 {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #2b2b2b;
+}
