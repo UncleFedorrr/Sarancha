@@ -18,14 +18,30 @@ body {
     margin-left: 30px;
 }
 
+.hhh h1 {
+    width: 130px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.hhh h2 {
+    width: 55px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
 .hhh b{
     font-style: italic;
     font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .helpmeplease {
     margin-left: 30px;
     margin-bottom: 30px;
+}
+
+.h {
+    width: 97%;
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
 .helpmeplease b {
