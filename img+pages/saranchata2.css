@@ -12,6 +12,10 @@ body {
     /*width: 400px;*/
     margin-top: 30px;
     margin-left: 30px;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    width: 700px;
 }
 
 .hhh {
@@ -20,18 +24,15 @@ body {
 
 .hhh h1 {
     width: 130px;
-    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .hhh h2 {
     width: 55px;
-    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .hhh b{
     font-style: italic;
     font-size: 20px;
-    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .helpmeplease {
@@ -42,6 +43,8 @@ body {
 .h {
     width: 97%;
     background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    padding: 10px;
 }
 
 .helpmeplease b {
