@@ -15,7 +15,6 @@ body {
 
 .content2 {
     display: flex;
-    /*flex-wrap: wrap;*/
     justify-content: space-around;
 }
 
@@ -26,16 +25,11 @@ body {
 
 .w {
     display: flex;
-    justify-content: space-around;
+    /*justify-content: space-around;*/
+    justify-content: space-evenly;
 }
 
 .ww {
-    display: flex;
-    justify-content: space-evenly;
-    margin-top: 20px;
-}
-
-.www {
     display: flex;
     justify-content: space-evenly;
     margin-top: 20px;
