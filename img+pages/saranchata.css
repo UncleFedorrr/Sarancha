@@ -41,7 +41,7 @@ body {
 }
 
 .www img {
-    margin: 10px 20px;
+    margin: 20px;
 }
 
 .e {
@@ -72,10 +72,12 @@ body {
 .text {
     display: flex;
     justify-content: center;
-    /*color: #f7078f;*/
     font-style: italic;
     font-size: 20px;
-    /*margin-bottom: 10px;*/
+}
+
+.text p {
+    background-color: rgba(255, 255, 255, 0.4);
 }
 
 .menu {
