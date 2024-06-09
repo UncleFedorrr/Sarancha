@@ -1,7 +1,7 @@
 body {
     background-color: #1c1c1c;
     margin: 0;
-    background-image: url("Вова 20.jpg");
+    background-image: url("Background1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -33,6 +33,15 @@ body {
     display: flex;
     justify-content: space-evenly;
     margin-top: 20px;
+}
+
+.www {
+    display:flex;
+    justify-content: center;
+}
+
+.www img {
+    margin: 20px;
 }
 
 .e {
